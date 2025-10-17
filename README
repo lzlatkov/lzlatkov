@@ -1,33 +1,41 @@
-# 👋 Hi, I'm Lyudmil Zlatkov!
+<h1 style="font-size:2.3em; font-family:Arial, Helvetica, sans-serif;">👋 Hi, I'm Lyudmil Zlatkov!</h1>
 
-
-## 🚀 About Me
+<h2 style="font-size:1.5em; font-family:Arial, Helvetica, sans-serif;">🚀 About Me</h2>
+<p style="font-size:1.1em; font-family:Arial, Helvetica, sans-serif;">
 I'm an enthusiastic learner who started my programming journey a year ago. Although my profession isn't related to software, I've become passionate about coding—especially Python!  
 I enjoy exploring new technologies and challenging myself to grow as a developer.
+</p>
 
-## 🐍 Tech Stack & Skills
-- **Python** 
-- **PostgreSQL**
-- **Tkinter** (GUI development)
+<h2 style="font-size:1.5em; font-family:Arial, Helvetica, sans-serif;">🐍 Tech Stack & Skills</h2>
+<ul style="font-size:1.1em; font-family:Arial, Helvetica, sans-serif;">
+  <li><b>Python</b></li>
+  <li><b>PostgreSQL</b></li>
+  <li><b>Tkinter</b> (GUI development)</li>
+</ul>
 
-I'm eager to expand my Python skills and dive deeper into other libraries and frameworks.
+<h2 style="font-size:1.5em; font-family:Arial, Helvetica, sans-serif;">🎯 Learning Goals</h2>
+<ul style="font-size:1.1em; font-family:Arial, Helvetica, sans-serif;">
+  <li>Master advanced Python concepts</li>
+  <li>Build practical applications with Tkinter</li>
+  <li>Work with databases and data-driven projects</li>
+  <li>Collaborate on open-source projects</li>
+</ul>
 
-## 🎯 Learning Goals
-- Master advanced Python concepts
-- Build practical applications with Tkinter
-- Work with databases and data-driven projects
-- Collaborate on open-source projects
+<h2 style="font-size:1.5em; font-family:Arial, Helvetica, sans-serif;">🌎 Interests & Hobbies</h2>
+<ul style="font-size:1.1em; font-family:Arial, Helvetica, sans-serif;">
+  <li>Sightseeing and exploring new places</li>
+  <li>Fishing by the water</li>
+  <li>Traveling and discovering new cultures</li>
+</ul>
 
-## 🌎 Interests & Hobbies
-When I'm not coding, you’ll find me:
-- Sightseeing and exploring new places
-- Fishing by the water
-- Traveling and discovering new cultures
-
-## 📬 Connect
-I'm always happy to meet fellow enthusiasts and share experiences.  
+<h2 style="font-size:1.5em; font-family:Arial, Helvetica, sans-serif;">📬 Connect</h2>
+<p style="font-size:1.1em; font-family:Arial, Helvetica, sans-serif;">
+I'm always happy to meet fellow enthusiasts and share experiences.<br>
 Feel free to reach out via GitHub!
+</p>
 
----
+<hr>
 
-> _“The journey of a thousand miles begins with a single step.”_ – Lao Tzu
+<blockquote style="font-size:1.1em; font-family:Arial, Helvetica, sans-serif;">
+  <i>“The journey of a thousand miles begins with a single step.”</i> – Lao Tzu
+</blockquote>
